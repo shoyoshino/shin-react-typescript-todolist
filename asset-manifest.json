@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shin-react-typescript-todolist/static/css/main.ea4b3085.css",
+    "main.js": "/shin-react-typescript-todolist/static/js/main.575ae8bf.js",
+    "index.html": "/shin-react-typescript-todolist/index.html",
+    "main.ea4b3085.css.map": "/shin-react-typescript-todolist/static/css/main.ea4b3085.css.map",
+    "main.575ae8bf.js.map": "/shin-react-typescript-todolist/static/js/main.575ae8bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea4b3085.css",
+    "static/js/main.575ae8bf.js"
+  ]
+}
